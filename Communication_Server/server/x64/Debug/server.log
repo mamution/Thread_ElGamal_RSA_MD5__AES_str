@@ -1,0 +1,3 @@
+﻿  mian_server.cpp
+C:\Users\lenovo\Desktop\课设项目\Communication_Server\server\mian_server.cpp(134,28): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  server.vcxproj -> C:\Users\lenovo\Desktop\课设项目\Communication_Server\x64\Debug\server.exe
