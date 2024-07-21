@@ -1,0 +1,17 @@
+﻿  BigInt.cpp
+C:\Users\lenovo\Desktop\新建文件夹\Thread_RSA_MD5__AES_str\AES\BigInt.cpp(36,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\新建文件夹\Thread_RSA_MD5__AES_str\AES\BigInt.cpp(93,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\新建文件夹\Thread_RSA_MD5__AES_str\AES\BigInt.cpp(198,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\新建文件夹\Thread_RSA_MD5__AES_str\AES\BigInt.cpp(242,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\新建文件夹\Thread_RSA_MD5__AES_str\AES\BigInt.cpp(274,15): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\lenovo\Desktop\新建文件夹\Thread_RSA_MD5__AES_str\AES\BigInt.cpp(300,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\新建文件夹\Thread_RSA_MD5__AES_str\AES\BigInt.cpp(347,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Rsa.cpp
+C:\Users\lenovo\Desktop\新建文件夹\Thread_RSA_MD5__AES_str\AES\Rsa.cpp(22,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\lenovo\Desktop\新建文件夹\Thread_RSA_MD5__AES_str\AES\Rsa.cpp(39,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\lenovo\Desktop\新建文件夹\Thread_RSA_MD5__AES_str\AES\Rsa.cpp(216,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+C:\Users\lenovo\Desktop\新建文件夹\Thread_RSA_MD5__AES_str\AES\main.cpp(164,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\新建文件夹\Thread_RSA_MD5__AES_str\AES\main.cpp(216,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  AES.vcxproj -> C:\Users\lenovo\Desktop\新建文件夹\Thread_RSA_MD5__AES_str\x64\Debug\AES.exe
