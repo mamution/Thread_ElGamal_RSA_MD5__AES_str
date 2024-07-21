@@ -1,0 +1,18 @@
+﻿  main_Alice_client.cpp
+C:\Users\lenovo\Desktop\课设项目\Thread_ElGamal_RSA_MD5__AES_str_Aliceclient\AES\main_Alice_client.cpp(172,25): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\课设项目\Thread_ElGamal_RSA_MD5__AES_str_Aliceclient\AES\main_Alice_client.cpp(180,25): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\课设项目\Thread_ElGamal_RSA_MD5__AES_str_Aliceclient\AES\main_Alice_client.cpp(207,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\课设项目\Thread_ElGamal_RSA_MD5__AES_str_Aliceclient\AES\main_Alice_client.cpp(240,26): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\课设项目\Thread_ElGamal_RSA_MD5__AES_str_Aliceclient\AES\main_Alice_client.cpp(133,7): warning C4101: “message”: 未引用的局部变量
+C:\Users\lenovo\Desktop\课设项目\Thread_ElGamal_RSA_MD5__AES_str_Aliceclient\AES\main_Alice_client.cpp(310,32): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\课设项目\Thread_ElGamal_RSA_MD5__AES_str_Aliceclient\AES\main_Alice_client.cpp(405,30): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\课设项目\Thread_ElGamal_RSA_MD5__AES_str_Aliceclient\AES\main_Alice_client.cpp(409,30): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\课设项目\Thread_ElGamal_RSA_MD5__AES_str_Aliceclient\AES\main_Alice_client.cpp(416,30): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\课设项目\Thread_ElGamal_RSA_MD5__AES_str_Aliceclient\AES\main_Alice_client.cpp(426,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\课设项目\Thread_ElGamal_RSA_MD5__AES_str_Aliceclient\AES\main_Alice_client.cpp(446,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  2 of 1702 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  AES.vcxproj -> C:\Users\lenovo\Desktop\课设项目\Thread_ElGamal_RSA_MD5__AES_str_Aliceclient\x64\Release\AES.exe
